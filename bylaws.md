@@ -181,8 +181,8 @@ appoint a replacement.
 a\. There shall be two Co-Chairs. Co-Chairs will be the chief executive
 officers of the Local Chapter. They will preside over Local Chapter and
 Organizing Committee meetings or will appoint a substitute to assume the
-powers and duties of the presiding officer as specified in [Robert\'s
-Rules of Order, Newly Revised 11th Edition]{.underline}. The Co-Chairs
+powers and duties of the presiding officer as specified in *Robert's
+Rules of Order, Newly Revised 11th Edition*. The Co-Chairs
 will be the official public spokespersons for the Local Chapter and will
 initiate such actions and policies as the Local Chapter's general
 welfare may demand.
@@ -233,22 +233,9 @@ Chapter.
 
 ### Section 6. Communications Coordinator.
 
-The Communications Coordinator shall be responsible, in cooperation
-
-with the Organizing Committee, for coordinating the public and internal
-communications
-
-functions of the Chapter, including without limitation: (a) preparation
-of printed and digital
-
-materials; (b) production of newsletters, magazines, and other digital
-content; (c) management of
-
-the Chapter's social media presence; (d) coordination of the Chapter's
-relationships with the
-
-news media; and (e) promoting and publicizing the Chapter's projects,
-campaigns and events.
+The Communications Coordinator shall be responsible, in cooperation with the Organizing Committee, for coordinating the public and internal
+communications functions of the Chapter, including without limitation: (a) preparation of printed and digital materials; (b) production of newsletters, magazines, and other digital content; (c) management of the Chapter's social media presence; (d) coordination of the Chapter's
+relationships with the news media; and (e) promoting and publicizing the Chapter's projects, campaigns and events.
 
 ### Section 7. Campaigns Coordinator.
 
