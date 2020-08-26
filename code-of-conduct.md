@@ -1,6 +1,9 @@
-# Code of Conduct
+Code of Conduct
+===============
 
-## Preamble
+***Lehigh Valley Chapter of the Democratic Socialists of America***
+
+# Preamble
 
 The Lehigh Valley Local Chapter of the Democratic Socialists of America (the Local Chapter) is committed to engendering a climate of respect for the variety of experience, analysis, and opinion that exists among those already in our ranks and those whom we stand alongside in the struggle for a democratic and socialist society. As a rule, the Local Chapter will be as accommodating and inclusive as practicable.
 
@@ -8,7 +11,7 @@ Rigorous debate is one of the hallmarks of any socialist organization. Such deba
 
 We are, however, a socialist organization, so we expect members to be socialists or leftists interested in learning more about socialism. At a minimum, we expect each other to be open-minded about socialism. We want to create a vibrant space of open debate and discussion, but we see little to be gained by engaging with apologists for capitalism, neoliberalism, and imperialism. We will not tolerate far right-wing ideologies, such as fascism. We will take seriously actions grounded in white supremacy and heteropatriarchy, such as Blue Lives Matter and pro-life politics. This especially applies to active leaders in the Local Chapter.
 
-## Purpose
+# Purpose
 
 The goal of the Code of Conduct is to foster a community that has the following qualities:
 
@@ -24,7 +27,7 @@ The goal of the Code of Conduct is to foster a community that has the following 
 
 * Ensures that relationships and conversations remain respectful, participatory, and productive.
 
-## The Code
+# The Code
 
 Members are expected to not only abide by rules of membership but should also abide by democratic norms and principles of non-discrimination. Members are accountable for actions that bring serious harm to other members, to allies, or to the organization. Discrimination may include, but is not limited to, restricting engagement in the organization or the community that surrounds it on the basis of the following traits:
 
@@ -54,7 +57,7 @@ Harassment is prohibited and includes conduct which is verbal, written, physical
 
 * Imagery, language, or other behavior that is intended to be disturbing or provocative without contributing to discussion.
 
-## Enforcement
+# Enforcement
 
 Wherever possible, personal conflicts should be resolved on an individual basis or with the help of the Local Chapter's Organizing Committee. Given that the aim of building a socialist organization includes building a shared sense of solidarity, disciplinary infractions should be handled with the aim of changing a member’s improper behavior, rather than resorting to formal disciplinary procedures.
 
