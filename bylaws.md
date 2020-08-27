@@ -468,7 +468,7 @@ organizations.
 
 ## Section 3. Method of Voting.
 
-Following Article V, Section 5 of national DSA's Constitution,delegates
+Following Article V, Section 5 of national DSA's Constitution, delegates
 to the National Convention must be elected by secret ballot. Following
 Article VI, Section 3, of national DSA's Bylaws, Local Chapters "may
 determine their own method of election of delegates to the Convention
