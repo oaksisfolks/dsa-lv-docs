@@ -5,6 +5,8 @@ Lehigh Valley Red Rabbits Charter
 
 Adopted on August 30, 2020
 
+Amended October 24, 2020
+
 ---
 
 # ARTICLE I. Definition & Purpose
@@ -68,3 +70,7 @@ No person who has been expelled from or formally disciplined by DSA or our allie
 ## Section 2. Peace Policing
 
 Red Rabbits are prohibited from "peace policing" or attempting to tamp down on militancy when engaged in marshaling or security roles.
+
+We will not work with organizations that make a habit of publicly exposing or informing on protesters, or otherwise aiding the state or far right actors to do harm to social justice activists.
+
+Any debates or criticisms concerning the tactics of activists or organizations in a coalition with the Lehigh Valley Red Rabbits will stay internal to the coalition. Red Rabbits members, and organizations who wish to benefit from our services, will avoid public or media denunciations of the tactics of coalition activists and organizations.
